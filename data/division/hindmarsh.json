@@ -1,1 +1,5 @@
-{"state": "state/sa", "margin": 11.400520039451266, "name": "Hindmarsh"}
+{
+ "state": "state/sa", 
+ "margin": 11.400520039451266, 
+ "name": "Hindmarsh"
+}
